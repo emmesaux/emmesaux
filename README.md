@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5B2E,50:FF2E88,100:7F00FF&height=220&section=header&text=Mario%20Saulle&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Founder%20%40%20Ti-e&descSize=20&descAlignY=58&animation=fadeIn" alt="Mario Saulle" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=FF8A5B&center=true&vCenter=true&width=860&height=50&lines=Ciao%2C+sono+Mario+%F0%9F%91%8B;Sviluppatore+full-stack+in+crescita;Costruisco+web+app%2C+app+mobile+e+automazioni;Software+su+misura+%2B+AI+per+studi+e+PMI" alt="Ciao, sono Mario" />
@@ -83,7 +81,7 @@ Un gioco di **geolocalizzazione** che si gioca direttamente nel browser: scopri 
 ## 🧡 Founder @ Ti-e
 
 <div align="center">
-  <img src="<img width="2000" height="500" alt="tie-banner-profile" src="https://github.com/user-attachments/assets/ab360f19-b414-496e-8cc3-a8b787a1305b" />" alt="Ti-e banner" width="100%" />
+  <img src="<img width="2000" height="500" alt="tie-banner-profile" src="https://github.com/user-attachments/assets/7a0fb930-9df3-4165-afe1-2a853c5cb02b" />" alt="Ti-e banner" width="100%" />
 </div>
 
 <br/>
