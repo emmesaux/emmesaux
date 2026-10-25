@@ -83,7 +83,7 @@ Un gioco di **geolocalizzazione** che si gioca direttamente nel browser: scopri 
 ## 🧡 Founder @ Ti-e
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6fb36103-276c-49ba-9c01-b55a3865f06b" alt="Ti-e banner" width="100%" />
+  <img src="<img width="2000" height="500" alt="tie-banner-profile" src="https://github.com/user-attachments/assets/ab360f19-b414-496e-8cc3-a8b787a1305b" />" alt="Ti-e banner" width="100%" />
 </div>
 
 <br/>
